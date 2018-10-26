@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: fun.huhao.demos
+---
+testFramework: junit
+sourceLanguage: java
