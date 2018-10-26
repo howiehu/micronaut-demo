@@ -13,8 +13,8 @@ group "fun.huhao.demos"
 
 repositories {
     mavenLocal()
-    mavenCentral()
-    maven { url "https://jcenter.bintray.com" }
+    maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+    maven { url 'http://maven.aliyun.com/nexus/content/repositories/jcenter' }
 }
 
 dependencyManagement {
